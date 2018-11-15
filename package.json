@@ -1,0 +1,14 @@
+{
+  "name": "CucumberNightwatch",
+  "version": "0.0.1",
+  "preferGlobal": false,
+  "dependencies": {
+    "cucumber": "4.2.1",
+    "nightwatch": "^0.9.21",
+    "nightwatch-cucumber": "^9.1.3",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "selenium-server": "^3.141.5",
+    "chromedriver": "^2.43.1",
+    "geckodriver": "^1.14.1"
+  }
+}
